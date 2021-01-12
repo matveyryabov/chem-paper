@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{bergstrom}
+Christel~AS Bergstr{\"o}m, Ulf Norinder, Kristina Luthman, and Per Artursson.
+\newblock Molecular descriptors influencing melting point and their role in
+  classification of solid drugs.
+\newblock {\em Journal of chemical information and computer sciences},
+  43(4):1177--1185, 2003.
+
+\bibitem{ring}
+Jim Clark.
+\newblock An introduction to alkanes and cycloalkanes.
+\newblock {\em Chemguide UK}, Jul 2015.
+
+\bibitem{sciencing}
+Claire Gillespie.
+\newblock What factors affect melting point?
+\newblock {\em SCIENCING}, Apr 2018.
+\newblock
+  \\\url{https://sciencing.com/factors-affect-melting-point-8690403.html}\\\url{}.
+
+\bibitem{martin2019polar}
+Jacob~W Martin, Kimberly Bowal, Angiras Menon, Radomir~I Slavchov, Jethro
+  Akroyd, Sebastian Mosbach, and Markus Kraft.
+\newblock Polar curved polycyclic aromatic hydrocarbons in soot formation.
+\newblock {\em Proceedings of the Combustion Institute}, 37(1):1117--1123,
+  2019.
+
+\bibitem{msu-edu}
+William Reusch.
+\newblock Boiling & melting points - msu chemistry.
+\newblock May 2013.
+\newblock
+  \\\url{https://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/physprop.htm}.
+
+\bibitem{zhang2015character}
+Xiang Zhang, Junbo Zhao, and Yann LeCun.
+\newblock Character-level convolutional networks for text classification.
+\newblock In {\em Advances in neural information processing systems}, pages
+  649--657, 2015.
+
+\end{thebibliography}
